@@ -1,4 +1,4 @@
-#World of tanks replay decompress
+# World of tanks replay decompress
 ## How to use
 ```
 unpack_replay.py <replay>
